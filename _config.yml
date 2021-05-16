@@ -9,7 +9,7 @@ name: Md Jannatul Ferdous
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://avatars.githubusercontent.com/u/84039694?s=400&u=2420dc40edc870df563d03a82f116a8a4db4aa23&v=4
+avatar:https://avatars.githubusercontent.com/u/84039694?v=4
 #
 # Flags below are optional
 #
@@ -17,7 +17,7 @@ avatar:https://avatars.githubusercontent.com/u/84039694?s=400&u=2420dc40edc870df
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:geraltriviauk321@gmail.com
   facebook:https://www.facebook.com/profile.php?id=100034982882875
   flickr:
   github: barryclark/jekyll-now
