@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Md. Jannatul Ferdous
+name: Md Jannatul Ferdous
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:https://avatars.githubusercontent.com/u/84039694?v=4
+avatar: https://avatars.githubusercontent.com/u/84039694?v=4
 #
 # Flags below are optional
 #
@@ -18,9 +18,9 @@ avatar:https://avatars.githubusercontent.com/u/84039694?v=4
 footer-links:
   dribbble:
   email:geraltriviauk321@gmail.com
-  facebook:https://www.facebook.com/profile.php?id=100034982882875
+  facebook: https://www.facebook.com/profile.php?id=100034982882875
   flickr:
-  github: barryclark/jekyll-now
+  github: JannatulHamim
   instagram:
   linkedin:
   pinterest:
