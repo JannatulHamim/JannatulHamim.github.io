@@ -14,7 +14,8 @@ The shift from animal-based diet to vegan diet is explicit opposing of animal cr
 
 The mass production of animal commodities places a heavy load on the already devastated environment. Woefully, the staggering quantity of grain feed needed to meet meat production is a major contributor to deforestation, habitat destruction, oceanic dead zones, species extinction and accounts for greenhouse gas emission which equates to the entire transportation system combined. The good news is a plant-based diet requires only one-third of the land needed to support a meat and dairy diet. According to prominent researchers at Oxford University, if everyone stopped animal-based diet, the global farmland use could be reduced by 75 per cent, an area equivalent to the size of the USA, China, Australia and the EU combined.Thus, a vegan diet could be the most effective way to reduce our environmental impact on Earth.
 
-The unimaginable hardships farm animals go through are horrifying. We cannot base our morality on the actions of primitive ancestors - who used to be obligate carnivores - where the modern day notion of right and wrong didn't exist. So, everytime you make a purchase in a supermarket - no matter how trivial the item may be - ponder whether the item has a negative effect on other sentient beings. 
+The unimaginable hardships farm animals go through are horrifying. We cannot base our morality on the actions of primitive ancestors - who used to be obligate carnivores - where the modern day notion of right and wrong didn't exist. So, everytime you make a purchase in a supermarket - no matter how trivial the item may be - ponder whether the item has a negative effect on other sentient beings.
 
+## A GLANCE AT THE FUTURE
 
 
