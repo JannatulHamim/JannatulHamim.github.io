@@ -28,14 +28,15 @@ The onset of dysphoria is often during early childhood but can also emerge durin
 teenage years. This might be visible in their behaviours such as dressing as their preferred
 gender, playing with toys that are typically associated with the opposite gender, and rejection
 of many gender-stereotypical behaviors. Symptoms of gender dysphoria can manifest in
-mainly two forms- 1)A strong desire to rid of primary sexual characteristics.2) A strong desire
+mainly two forms- 1)A longing to rid of primary sexual characteristics. 2) A strong desire
 to be the other gender and be treated as the other gender.
 
 The exact causes of gender dysphoria are not completely understood but studies have
 shown that genetics, hormonal influences during prenatal development and environmental
 factors may be contributing factors to gender identity disorders.
+
 Treatment can help them to explore their gender identity and find the gender role that feels
-comfortable for them, easing distress. But it is important to consider that treatment can be
+comfortable for them, easing distress. Furthermore, it is important to consider that treatment can be
 individualized. Treatment options might include home therapy, surgery and behavioural
 therapy. As a society it should be our responsibility to listen to their struggles and help them
 feel more fulfilled so that they can overcome the discomfort and freely express their
